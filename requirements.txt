@@ -1,0 +1,6 @@
+requests>=2.31.0
+pandas>=2.0.0
+python-dotenv>=1.0.0
+openai>=1.0.0
+flask>=3.0.0lark-oapi
+# pip install -r requirements.txt -i https://pypi.tuna.tsinghua.edu.cn/simple
